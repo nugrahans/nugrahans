@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nugrahans
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning about web programing and linux
+- 🌱 I’m currently learning about web programing, windows problem and troubleshoot,linux
 - 💞️ I’m looking to collaborate on what happening in the world
 - 📫 How to reach me : nugraha.gaw@gmail.com
 
